@@ -31,6 +31,11 @@ p {
 img {
   width: 80%;
 }
+.note {
+  font-size: 0.5rem;
+  text-align: center;
+  
+}
 
 footer {
   margin-top: 5%;
